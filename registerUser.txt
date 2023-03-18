@@ -1,0 +1,12 @@
+Sunny Shah|448 Meloy Rd|wqeqwe|sunny24|shahsunny311@gmail.com|sunny|true
+deep|448 meloy|1234567890|deep|deep@gmail.com|deep|false
+Deep|448 meloy road|7476779276|dv14|deepvira45@gmail.com|deeepvira|false
+Deep|mira road|9757479108|deep45|deepvira145@gmail.com|deepvira|false
+deep|asd|1234567890|deep1|deep1@gmail.com|deep|false
+John|UNH|7567483928|john|john@gmail.com|john|false
+jayne|UNH|1234567890|jane|j@gmail.com|jane|false
+thomas|boston post road|1234567890|thomas|null|thomas|null
+thomas|boston post road|1234567890|thomas|null|thomas|null
+thomas|boston post road|123456790|thomas|null|thomas|null
+sunny|boston post road|1234567902|sunny|sunny@gmail.com|sunny|false
+sunnyshah|boston post road|1234567902|sunnyshah|sunnyshah@gmail.com|sunny|false
